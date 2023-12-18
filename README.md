@@ -1,7 +1,7 @@
 # LLM-study
 
 ## Papers
-1. 
+[./papers](papers/)
 
 ## Useful Links
 1. https://github.com/Hannibal046/Awesome-LLM
